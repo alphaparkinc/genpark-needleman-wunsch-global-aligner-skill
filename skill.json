@@ -1,0 +1,17 @@
+{
+  "name": "genpark-needleman-wunsch-global-aligner-skill",
+  "version": "1.0.0",
+  "description": "Needleman-Wunsch global sequence alignment engine computing optimal full-length biological alignments via dynamic programming matrices.",
+  "main": "client.py",
+  "mcp_server": "mcp_server.py",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "needleman-wunsch",
+    "global-alignment",
+    "bioinformatics",
+    "sequence-alignment",
+    "dynamic-programming"
+  ],
+  "dependencies": []
+}
